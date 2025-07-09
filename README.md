@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/akash-adlan-432b71279](https://www.linkedin.com/in/akash-adlan-432b71279)
 
-- 💬 Ask me about **Kotlin,C,C++,DBMS,DSA**
+- 💬 Ask me about **Kotlin,Java,C,C++,DSA**
 
 - 📫 How to reach me **akashadlan32@gmail.com**
 
